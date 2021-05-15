@@ -1,0 +1,31 @@
+
+h1{
+    font-family:'Reggae One', cursive;
+    
+    text-align: center;
+    font-size:larger;
+    color:White;
+}
+
+body{
+    background-image: url("1uOlYH9KOordU2XgVsxR1GQ.jpeg");
+}
+
+.card{
+text-align: center;
+margin-left:500px;
+margin-top:75px;
+}
+
+#p1Score{
+    font-size:100px;
+}
+
+#p2Score{
+    font-size:100px;
+}
+
+.dash{
+    font-size:100px;
+}
+
